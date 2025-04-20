@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/Mubarak1A/TechNote#readme",
   "dependencies": {
-    "express": "^5.1.0",
+    "express": "^4.21.2",
     "nodemon": "^3.1.9",
     "technote": "file:"
   }
